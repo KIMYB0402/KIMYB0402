@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Skill Stack 👋
 
 <!--
 **KIMYB0402/KIMYB0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
