@@ -1,16 +1,6 @@
 ##  About Me🔭
   
 <a href="https://the1995-dev-note.tistory.com/"><img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-
-## My Skill Stack 👋
-
-
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
   
 ## 🛠 Tech Stack
 
