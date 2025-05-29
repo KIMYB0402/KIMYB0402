@@ -1,3 +1,7 @@
+##  About Me🔭
+  
+<a href="https://the1995-dev-note.tistory.com/"><img src="https://img.shields.io/badge/TiStory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 ## My Skill Stack 👋
 
 <!--
