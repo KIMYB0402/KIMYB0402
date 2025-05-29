@@ -39,7 +39,8 @@
 <img src="https://img.shields.io/badge/Containerization-purple?style=for-the-badge"/><br>
 
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Podman-8
+<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 
 
 
